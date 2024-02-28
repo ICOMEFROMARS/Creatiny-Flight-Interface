@@ -1,3 +1,5 @@
 # Creatiny-Flight-Interface
 
-cc
+KTU Creatiny Team Flight Interface Project for Teknofest
+
+
